@@ -1,0 +1,8 @@
+
+Usage examples:
+
+# Run training (if you want to retrain locally)
+python src/train.py
+
+# Run Streamlit app
+streamlit run app/app.py
