@@ -15,8 +15,8 @@ It includes a synthetic dataset, training script, a saved trained model, and a S
 1. Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate    # Linux / macOS
-   venv\Scripts\activate     # Windows PowerShell
+   source venv/bin/activate    
+   venv\Scripts\activate    
    ```
 2. Install dependencies:
    ```bash
